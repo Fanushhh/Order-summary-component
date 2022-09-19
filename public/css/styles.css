@@ -1,7 +1,7 @@
 
 body{
     font-family: 'Red Hat Display', sans-serif;
-    background-image: url("public/images/pattern-background-desktop.svg");
+    background-image: url("/public/images/pattern-background-desktop.svg");
     background-size:cover;
     background-position: center;
     background-color: hsl(225, 100%, 94%);
@@ -139,7 +139,7 @@ h1{
         margin-left: 15px;
     }
     .body{
-        background-image: url("public/images/pattern-background-desktop.svg");
+        background-image: url("/public/images/pattern-background-desktop.svg");
         background-position: top left;
         background-size: cover;
         
